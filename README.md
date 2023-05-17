@@ -1,4 +1,4 @@
-#### 🌱안녕하세요. 도전하는 개발자 정채원입니다. 🌱
+### <div align="center">🌱안녕하세요. 도전하는 개발자 정채원입니다. 🌱 </div>
 
 <br>
 
@@ -20,3 +20,5 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat&logo=Spring&logoColor=white"/>
 
 ![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chae1-j&theme=swift&show_icons=true)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae1-j&layout=compact&show_icons=true&show_owner=true&hide_title=&theme=transparent&hide=" />
