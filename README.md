@@ -1,4 +1,4 @@
-### <div align="center">🌱안녕하세요. 도전하는 개발자 정채원입니다. 🌱 </div>
+### <div align="center">🌱안녕하세요. 소통하는 개발자 정채원입니다. 🌱 </div>
 
 <br>
 
