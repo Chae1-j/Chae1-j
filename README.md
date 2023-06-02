@@ -4,7 +4,7 @@
 
 **교육 사항**
 - 2022.08-2023.02 아이티윌 부산 교육센터 클라우드 융합 자바 스프링 백엔드 개발자 과정 수료
-- <span style="color:white">2011.03-2017.02 부경대학교 신문방송학과 졸업(現 미디어 커뮤니케이션 학부)</span>
+- 2011.03-2017.02 부경대학교 신문방송학과 졸업
 
 **Skills** <br>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white"/>
