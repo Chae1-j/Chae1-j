@@ -1,5 +1,7 @@
 ### <div align="center">🌱안녕하세요. 소통하는 개발자 정채원입니다. 🌱 </div>
 
+Hello, I'm a back-end web developer who mainly use Java.
+
 <br>
 
 **교육 사항**
