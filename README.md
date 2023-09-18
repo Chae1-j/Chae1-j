@@ -10,7 +10,7 @@ Hello, I'm a back-end web developer who mainly use Java.
 
 **Skills** <br>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?&style=flat&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-3776AB?&style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=JQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -22,7 +22,7 @@ Hello, I'm a back-end web developer who mainly use Java.
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=flat&logo=VisualStudioCode&logoColor=white"/>
 
 ![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chae1-j&theme=swift&show_icons=true)
 
