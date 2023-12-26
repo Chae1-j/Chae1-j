@@ -5,6 +5,7 @@ Hello, I'm a back-end web developer who mainly use Java.
 <br>
 
 **교육 사항**
+- 2023.11-2023.12 e-itwill 개발자를 위한 AWS DevOps 입문(CI/CD 무중단 배포)
 - 2022.08-2023.02 아이티윌 부산 교육센터 클라우드 융합 자바 스프링 백엔드 개발자 과정 수료
 - 2011.03-2017.02 부경대학교 신문방송학과 졸업
 
