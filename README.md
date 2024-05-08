@@ -8,6 +8,10 @@ Hello, I'm a back-end web developer who mainly use Java.
 - 2023.11-2023.12 e-itwill 개발자를 위한 AWS DevOps 입문(CI/CD 무중단 배포)
 - 2022.08-2023.02 아이티윌 부산 교육센터 클라우드 융합 자바 스프링 백엔드 개발자 과정 수료
 
+**경력 사항**
+
+**자격증**
+
 **Skills** <br>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?&style=flat&logo=Python&logoColor=white"/>
