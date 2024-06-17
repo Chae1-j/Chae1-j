@@ -9,8 +9,11 @@ Hello, I'm a back-end web developer who mainly use Java.
 - 2022.08-2023.02 아이티윌 부산 교육센터 클라우드 융합 자바 스프링 백엔드 개발자 과정 수료
 
 **경력 사항**
+- 2024.03- 플랫폼개발팀 근무
 
 **자격증**
+- SQLD
+- 정보처리기사
 
 **Skills** <br>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white"/>
