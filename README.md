@@ -30,6 +30,7 @@ Hello, I'm a back-end web developer who mainly use Java.
 <img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=flat&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellijidea-000000?&style=flat&logo=intellijidea&logoColor=white"/>
 
 ![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chae1-j&theme=swift&show_icons=true)
 
