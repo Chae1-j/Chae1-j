@@ -14,6 +14,7 @@ Hello, I'm a back-end web developer who mainly use Java.
 **자격증**
 - SQLD
 - 정보처리기사
+- 리눅스마스터 2급
 
 **Skills** <br>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white"/>
